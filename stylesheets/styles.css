@@ -16,7 +16,6 @@
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Bold'),
        local('Noto-Sans-700'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
 }
 
@@ -28,7 +27,6 @@
   src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Italic'),
        local('Noto-Sans-italic'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans') format('svg');
 }
 
@@ -40,7 +38,6 @@
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Bold Italic'),
        local('Noto-Sans-700italic'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
